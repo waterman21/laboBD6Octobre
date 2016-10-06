@@ -1,0 +1,7 @@
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL\bin\Debug\BankDAL.dll
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL\bin\Debug\BankDAL.pdb
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL\obj\Debug\BankDAL.csprojResolveAssemblyReference.cache
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL\obj\Debug\BankDAL.Properties.Resources.resources
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL\obj\Debug\BankDAL.csproj.GenerateResource.Cache
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL\obj\Debug\BankDAL.dll
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL\obj\Debug\BankDAL.pdb

@@ -1,5 +1,4 @@
 ﻿using BankDAL.Tests.Properties;
-using com.rusanu.DBUtil;
 using Microsoft.SqlServer.Management.Common;
 using Microsoft.SqlServer.Management.Smo;
 using System;

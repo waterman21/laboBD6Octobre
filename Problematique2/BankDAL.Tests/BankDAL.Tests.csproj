@@ -106,10 +106,6 @@
       <Project>{0407d07e-3124-4c3e-8d8c-b3fe9027c529}</Project>
       <Name>BankDAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DbUtilsCmd\DBUtil.csproj">
-      <Project>{96710f18-4c73-477e-91ca-ba3e5db86e98}</Project>
-      <Name>DBUtil</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">

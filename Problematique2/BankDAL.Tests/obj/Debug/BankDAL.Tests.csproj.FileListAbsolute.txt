@@ -1,0 +1,3 @@
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL.Tests\obj\Debug\BankDAL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL.Tests\obj\Debug\BankDAL.Tests.Properties.Resources.resources
+C:\Users\etu23543\Source\Repos\laboBD6Octobre2\Problematique2\BankDAL.Tests\obj\Debug\BankDAL.Tests.csproj.GenerateResource.Cache
